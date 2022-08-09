@@ -1,5 +1,5 @@
 # hello-world
 My first trial 
 
-Hi eveyone!
+Hi everyone!
 I like Arduino more than anything
